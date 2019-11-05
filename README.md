@@ -12,7 +12,7 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Baruch-Spinoza-Books/blob/master/oza(6).pdf" style="text-decoration:none;">Spinoza: Complete Works</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Baruch-Spinoza-Books/blob/master/oza(7).pdf" style="text-decoration:none;">The Rationalists: Descartes: Discourse on Method & Meditations; Spinoza: Ethics; Leibniz: Monadology and Discourse on Metaphysics  </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Baruch-Spinoza-Books/blob/master/oza(7).pdf" style="text-decoration:none;">The Rationalists: Descartes: Discourse on Method and Meditations; Spinoza: Ethics; Leibniz: Monadology and Discourse on Metaphysics  </a></b></li>   
 
 
  
