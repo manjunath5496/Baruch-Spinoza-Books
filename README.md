@@ -133,6 +133,8 @@
 </li>
 <li>
 <div class="center"><a title="&Eacute;tienne Balibar" href="https://en.wikipedia.org/wiki/%C3%89tienne_Balibar">Balibar</a>,&nbsp;<a title="Michael Hardt" href="https://en.wikipedia.org/wiki/Michael_Hardt">Hardt</a>,&nbsp;<a title="Evald Ilyenkov" href="https://en.wikipedia.org/wiki/Evald_Ilyenkov">Ilyenkov</a>,&nbsp;<a title="Antonio Negri" href="https://en.wikipedia.org/wiki/Antonio_Negri">Negri</a>,&nbsp;<a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">Santayana</a></div>
+</li>
+<li>
 <div class="center"><a title="Samuel Taylor Coleridge" href="https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge">Coleridge</a>,&nbsp;<a title="Gotthold Ephraim Lessing" href="https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing">Gotthold Ephraim Lessing</a>,&nbsp;<a title="Leo Strauss" href="https://en.wikipedia.org/wiki/Leo_Strauss">L. Strauss</a>,&nbsp;<a title="Leszek Kołakowski" href="https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski">Kołakowski</a>&nbsp;</div>
 </li>
 <li>
