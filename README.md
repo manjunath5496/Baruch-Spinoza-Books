@@ -50,8 +50,11 @@
 <div>Notable ideas</div>
 </th>
 <td>
-<p><a title="Pantheism" href="https://en.wikipedia.org/wiki/Pantheism">Pantheism</a>,&nbsp;<a title="Determinism" href="https://en.wikipedia.org/wiki/Determinism">determinism</a>,&nbsp;<a title="Neutral monism" href="https://en.wikipedia.org/wiki/Neutral_monism">neutral monism</a>,&nbsp;<a title="Psychophysical parallelism" href="https://en.wikipedia.org/wiki/Psychophysical_parallelism">psychophysical parallelism</a>,&nbsp;<a title="Intellectual freedom" href="https://en.wikipedia.org/wiki/Intellectual_freedom">intellectual</a>&nbsp;and&nbsp;<a title="Freedom of religion" href="https://en.wikipedia.org/wiki/Freedom_of_religion">religious freedom</a>,&nbsp;<a title="Separation of church and state" href="https://en.wikipedia.org/wiki/Separation_of_church_and_state">separation of church and state</a>, criticism of&nbsp;<a title="Moses" href="https://en.wikipedia.org/wiki/Moses">Mosaic</a>&nbsp;</p>
-<p>authorship of some books of the&nbsp;<a title="Hebrew Bible" href="https://en.wikipedia.org/wiki/Hebrew_Bible">Hebrew Bible</a>,&nbsp;<a class="mw-redirect" title="Forms of government" href="https://en.wikipedia.org/wiki/Forms_of_government">political society</a>&nbsp;as derived from&nbsp;<a class="mw-redirect" title="Power (sociology)" href="https://en.wikipedia.org/wiki/Power_(sociology)">power</a>&nbsp;(not&nbsp;<a title="Social contract" href="https://en.wikipedia.org/wiki/Social_contract">contract</a>),&nbsp;<a title="Affect (philosophy)" href="https://en.wikipedia.org/wiki/Affect_(philosophy)">affect</a>,&nbsp;<em><a title="Natura naturans" href="https://en.wikipedia.org/wiki/Natura_naturans">natura naturans</a></em>,&nbsp;<em><a title="Natura naturata" href="https://en.wikipedia.org/wiki/Natura_naturata">natura naturata</a></em></p>
+<p><a title="Pantheism" href="https://en.wikipedia.org/wiki/Pantheism">Pantheism</a>,&nbsp;<a title="Determinism" href="https://en.wikipedia.org/wiki/Determinism">determinism</a>,&nbsp;<a title="Neutral monism" href="https://en.wikipedia.org/wiki/Neutral_monism">neutral monism</a>,&nbsp;</p>
+<p><a title="Psychophysical parallelism" href="https://en.wikipedia.org/wiki/Psychophysical_parallelism">psychophysical parallelism</a>,&nbsp;<a title="Intellectual freedom" href="https://en.wikipedia.org/wiki/Intellectual_freedom">intellectual</a>&nbsp;and&nbsp;<a title="Freedom of religion" href="https://en.wikipedia.org/wiki/Freedom_of_religion">religious freedom</a>,&nbsp;</p>
+<p><a title="Separation of church and state" href="https://en.wikipedia.org/wiki/Separation_of_church_and_state">separation of church and state</a>, criticism of&nbsp;<a title="Moses" href="https://en.wikipedia.org/wiki/Moses">Mosaic</a>&nbsp;</p>
+<p>authorship of some books of the&nbsp;<a title="Hebrew Bible" href="https://en.wikipedia.org/wiki/Hebrew_Bible">Hebrew Bible</a>,&nbsp;<a class="mw-redirect" title="Forms of government" href="https://en.wikipedia.org/wiki/Forms_of_government">political society</a>&nbsp;</p>
+<p>as derived from&nbsp;<a class="mw-redirect" title="Power (sociology)" href="https://en.wikipedia.org/wiki/Power_(sociology)">power</a>&nbsp;(not&nbsp;<a title="Social contract" href="https://en.wikipedia.org/wiki/Social_contract">contract</a>),&nbsp;<a title="Affect (philosophy)" href="https://en.wikipedia.org/wiki/Affect_(philosophy)">affect</a>,&nbsp;<em><a title="Natura naturans" href="https://en.wikipedia.org/wiki/Natura_naturans">natura naturans</a></em>,&nbsp;<em><a title="Natura naturata" href="https://en.wikipedia.org/wiki/Natura_naturata">natura naturata</a></em></p>
 </td>
 </tr>
 <tr class="note">
@@ -60,7 +63,43 @@
 <div class="NavHead">Influences</div>
 <ul class="NavContent">
 <li>
-<div class="center"><a title="Ren&eacute; Descartes" href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Descartes</a>,&nbsp;<a title="Stoicism" href="https://en.wikipedia.org/wiki/Stoicism">Stoics</a>,&nbsp;<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>,<a title="Hasdai Crescas" href="https://en.wikipedia.org/wiki/Hasdai_Crescas">Crescas</a>,&nbsp;<a title="Abraham ibn Ezra" href="https://en.wikipedia.org/wiki/Abraham_ibn_Ezra">Abraham ibn Ezra</a>,&nbsp;<a title="Avicenna" href="https://en.wikipedia.org/wiki/Avicenna">Avicenna</a>,&nbsp;<a title="Averroes" href="https://en.wikipedia.org/wiki/Averroes">Averroes</a>,&nbsp;<a title="Aristotle" href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a>,&nbsp;<a title="Democritus" href="https://en.wikipedia.org/wiki/Democritus">Democritus</a>,&nbsp;<a title="Lucretius" href="https://en.wikipedia.org/wiki/Lucretius">Lucretius</a>,&nbsp;<a title="Epicurus" href="https://en.wikipedia.org/wiki/Epicurus">Epicurus</a>,&nbsp;<a class="mw-redirect" title="Niccolo Machiavelli" href="https://en.wikipedia.org/wiki/Niccolo_Machiavelli">Niccolo Machiavelli</a>,&nbsp;<a title="Thomas Hobbes" href="https://en.wikipedia.org/wiki/Thomas_Hobbes">Thomas Hobbes</a>,&nbsp;<a title="Giordano Bruno" href="https://en.wikipedia.org/wiki/Giordano_Bruno">Giordano Bruno</a>,&nbsp;<a title="Franciscus van den Enden" href="https://en.wikipedia.org/wiki/Franciscus_van_den_Enden">Franciscus van den Enden</a>,&nbsp;<a title="Menasseh Ben Israel" href="https://en.wikipedia.org/wiki/Menasseh_Ben_Israel">Menasseh Ben Israel</a></div>
+<div class="center"><a title="Ren&eacute; Descartes" href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Descartes</a>,&nbsp;<a title="Stoicism" href="https://en.wikipedia.org/wiki/Stoicism">Stoics</a></div>
+</li>
+<li>
+<div class="center"><a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>,<a title="Hasdai Crescas" href="https://en.wikipedia.org/wiki/Hasdai_Crescas">Crescas</a></div>
+</li>
+<li>
+<div class="center"><a title="Abraham ibn Ezra" href="https://en.wikipedia.org/wiki/Abraham_ibn_Ezra">Abraham ibn Ezra</a>&nbsp;</div>
+</li>
+<li>
+<div class="center"><a title="Avicenna" href="https://en.wikipedia.org/wiki/Avicenna">Avicenna</a></div>
+</li>
+<li>
+<div class="center"><a title="Averroes" href="https://en.wikipedia.org/wiki/Averroes">Averroes</a></div>
+</li>
+<li>
+<div class="center"><a title="Aristotle" href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a></div>
+</li>
+<li>
+<div class="center"><a title="Democritus" href="https://en.wikipedia.org/wiki/Democritus">Democritus</a></div>
+</li>
+<li>
+<div class="center"><a title="Lucretius" href="https://en.wikipedia.org/wiki/Lucretius">Lucretius</a></div>
+</li>
+<li>
+<div class="center"><a title="Epicurus" href="https://en.wikipedia.org/wiki/Epicurus">Epicurus</a>,</div>
+</li>
+<li>
+<div class="center"><a class="mw-redirect" title="Niccolo Machiavelli" href="https://en.wikipedia.org/wiki/Niccolo_Machiavelli">Niccolo Machiavelli</a></div>
+</li>
+<li>
+<div class="center"><a title="Thomas Hobbes" href="https://en.wikipedia.org/wiki/Thomas_Hobbes">Thomas Hobbes</a>&nbsp;</div>
+</li>
+<li>
+<div class="center"><a title="Giordano Bruno" href="https://en.wikipedia.org/wiki/Giordano_Bruno">Giordano Bruno</a>&nbsp;<a title="Franciscus van den Enden" href="https://en.wikipedia.org/wiki/Franciscus_van_den_Enden">Franciscus van den Enden</a></div>
+</li>
+<li>
+<div class="center"><a title="Menasseh Ben Israel" href="https://en.wikipedia.org/wiki/Menasseh_Ben_Israel">Menasseh Ben Israel</a></div>
 </li>
 </ul>
 </div>
@@ -72,8 +111,32 @@
 <div class="NavHead">Influenced</div>
 <ul class="NavContent">
 <li>
-<div class="center"><a class="mw-redirect" title="Enlightenment philosophy" href="https://en.wikipedia.org/wiki/Enlightenment_philosophy">Enlightenment philosophy</a>&nbsp;(<a title="Age of Enlightenment" href="https://en.wikipedia.org/wiki/Age_of_Enlightenment">Age of Reason</a>),&nbsp;<a title="Arthur Schopenhauer" href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer">Schopenhauer</a>,&nbsp;<a title="Jorge Luis Borges" href="https://en.wikipedia.org/wiki/Jorge_Luis_Borges">Borges</a>,&nbsp;<a title="Georg Wilhelm Friedrich Hegel" href="https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel">Hegel</a>,&nbsp;<a title="Jean-Jacques Rousseau" href="https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau">Rousseau</a>,&nbsp;<a title="Friedrich Wilhelm Joseph Schelling" href="https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling">Schelling</a>,&nbsp;<a title="Arne N&aelig;ss" href="https://en.wikipedia.org/wiki/Arne_N%C3%A6ss">N&aelig;ss</a>,&nbsp;<a class="mw-redirect" title="Karl Heinrich Marx" href="https://en.wikipedia.org/wiki/Karl_Heinrich_Marx">Marx</a>,&nbsp;<a title="Gabriel Wagner" href="https://en.wikipedia.org/wiki/Gabriel_Wagner">G. Wagner</a>,&nbsp;<a title="Donald Davidson (philosopher)" href="https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)">Davidson</a>,&nbsp;<a title="Gilles Deleuze" href="https://en.wikipedia.org/wiki/Gilles_Deleuze">Deleuze</a>,&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein</a>,&nbsp;<a title="George Eliot" href="https://en.wikipedia.org/wiki/George_Eliot">G. Eliot</a>,&nbsp;<a class="mw-redirect" title="Fichte" href="https://en.wikipedia.org/wiki/Fichte">Fichte</a>,&nbsp;<a class="mw-redirect" title="Johann Gottfried von Herder" href="https://en.wikipedia.org/wiki/Johann_Gottfried_von_Herder">Herder</a>,&nbsp;<a title="Novalis" href="https://en.wikipedia.org/wiki/Novalis">Novalis</a>,&nbsp;<a class="mw-redirect" title="Gottfried Leibniz" href="https://en.wikipedia.org/wiki/Gottfried_Leibniz">Leibniz</a>,&nbsp;<a title="Johann Wolfgang von Goethe" href="https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe">Goethe</a>,&nbsp;<a title="Charles Renouvier" href="https://en.wikipedia.org/wiki/Charles_Renouvier">Renouvier</a>,&nbsp;<a title="Friedrich Nietzsche" href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">Nietzsche</a>,&nbsp;<a title="Bertrand Russell" href="https://en.wikipedia.org/wiki/Bertrand_Russell">Russell</a>,&nbsp;<a title="Ludwig Wittgenstein" href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Wittgenstein</a>,&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Freud</a>,&nbsp;<a title="Miguel de Unamuno" href="https://en.wikipedia.org/wiki/Miguel_de_Unamuno">Unamuno</a>,&nbsp;<a title="Louis Althusser" href="https://en.wikipedia.org/wiki/Louis_Althusser">Althusser</a>,&nbsp;<a title="&Eacute;tienne Balibar" href="https://en.wikipedia.org/wiki/%C3%89tienne_Balibar">Balibar</a>,&nbsp;<a title="Michael Hardt" href="https://en.wikipedia.org/wiki/Michael_Hardt">Hardt</a>,&nbsp;<a title="Evald Ilyenkov" href="https://en.wikipedia.org/wiki/Evald_Ilyenkov">Ilyenkov</a>,&nbsp;<a title="Antonio Negri" href="https://en.wikipedia.org/wiki/Antonio_Negri">Negri</a>,&nbsp;<a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">Santayana</a>,&nbsp;</div>
-<div class="center"><a title="Samuel Taylor Coleridge" href="https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge">Coleridge</a>,&nbsp;<a title="Gotthold Ephraim Lessing" href="https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing">Gotthold Ephraim Lessing</a>,&nbsp;<a title="Leo Strauss" href="https://en.wikipedia.org/wiki/Leo_Strauss">L. Strauss</a>,&nbsp;<a title="Leszek Kołakowski" href="https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski">Kołakowski</a>,&nbsp;<a title="Irvin D. Yalom" href="https://en.wikipedia.org/wiki/Irvin_D._Yalom">Yalom</a>,&nbsp;<a title="Lev Vygotsky" href="https://en.wikipedia.org/wiki/Lev_Vygotsky">Vygotsky</a></div>
+<div class="center"><a class="mw-redirect" title="Enlightenment philosophy" href="https://en.wikipedia.org/wiki/Enlightenment_philosophy">Enlightenment philosophy</a>&nbsp;(<a title="Age of Enlightenment" href="https://en.wikipedia.org/wiki/Age_of_Enlightenment">Age of Reason</a>)</div>
+</li>
+<li>
+<div class="center"><a title="Arthur Schopenhauer" href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer">Schopenhauer</a>,&nbsp;<a title="Jorge Luis Borges" href="https://en.wikipedia.org/wiki/Jorge_Luis_Borges">Borges</a>,&nbsp;<a title="Georg Wilhelm Friedrich Hegel" href="https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel">Hegel</a></div>
+</li>
+<li>
+<div class="center"><a title="Jean-Jacques Rousseau" href="https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau">Rousseau</a></div>
+</li>
+<li>
+<div class="center"><a title="Friedrich Wilhelm Joseph Schelling" href="https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling">Schelling</a></div>
+</li>
+<li>
+<div class="center"><a title="Arne N&aelig;ss" href="https://en.wikipedia.org/wiki/Arne_N%C3%A6ss">N&aelig;ss</a>,&nbsp;<a class="mw-redirect" title="Karl Heinrich Marx" href="https://en.wikipedia.org/wiki/Karl_Heinrich_Marx">Marx</a>,&nbsp;<a title="Gabriel Wagner" href="https://en.wikipedia.org/wiki/Gabriel_Wagner">G. Wagner</a>,&nbsp;<a title="Donald Davidson (philosopher)" href="https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)">Davidson</a>,&nbsp;<a title="Gilles Deleuze" href="https://en.wikipedia.org/wiki/Gilles_Deleuze">Deleuze</a>,&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein</a>,&nbsp;<a title="George Eliot" href="https://en.wikipedia.org/wiki/George_Eliot">G. </a></div>
+</li>
+<li>
+<div class="center"><a title="George Eliot" href="https://en.wikipedia.org/wiki/George_Eliot">Eliot</a>,&nbsp;<a class="mw-redirect" title="Fichte" href="https://en.wikipedia.org/wiki/Fichte">Fichte</a>,&nbsp;<a class="mw-redirect" title="Johann Gottfried von Herder" href="https://en.wikipedia.org/wiki/Johann_Gottfried_von_Herder">Herder</a>,&nbsp;<a title="Novalis" href="https://en.wikipedia.org/wiki/Novalis">Novalis</a>,&nbsp;<a class="mw-redirect" title="Gottfried Leibniz" href="https://en.wikipedia.org/wiki/Gottfried_Leibniz">Leibniz</a>,&nbsp;<a title="Johann Wolfgang von Goethe" href="https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe">Goethe</a>,&nbsp;<a title="Charles Renouvier" href="https://en.wikipedia.org/wiki/Charles_Renouvier">Renouvier</a>&nbsp;</div>
+</li>
+<li>
+<div class="center"><a title="Friedrich Nietzsche" href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche">Nietzsche</a>,&nbsp;<a title="Bertrand Russell" href="https://en.wikipedia.org/wiki/Bertrand_Russell">Russell</a>,&nbsp;<a title="Ludwig Wittgenstein" href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Wittgenstein</a>,&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Freud</a>,&nbsp;<a title="Miguel de Unamuno" href="https://en.wikipedia.org/wiki/Miguel_de_Unamuno">Unamuno</a>,&nbsp;<a title="Louis Althusser" href="https://en.wikipedia.org/wiki/Louis_Althusser">Althusser</a>&nbsp;</div>
+</li>
+<li>
+<div class="center"><a title="&Eacute;tienne Balibar" href="https://en.wikipedia.org/wiki/%C3%89tienne_Balibar">Balibar</a>,&nbsp;<a title="Michael Hardt" href="https://en.wikipedia.org/wiki/Michael_Hardt">Hardt</a>,&nbsp;<a title="Evald Ilyenkov" href="https://en.wikipedia.org/wiki/Evald_Ilyenkov">Ilyenkov</a>,&nbsp;<a title="Antonio Negri" href="https://en.wikipedia.org/wiki/Antonio_Negri">Negri</a>,&nbsp;<a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">Santayana</a></div>
+<div class="center"><a title="Samuel Taylor Coleridge" href="https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge">Coleridge</a>,&nbsp;<a title="Gotthold Ephraim Lessing" href="https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing">Gotthold Ephraim Lessing</a>,&nbsp;<a title="Leo Strauss" href="https://en.wikipedia.org/wiki/Leo_Strauss">L. Strauss</a>,&nbsp;<a title="Leszek Kołakowski" href="https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski">Kołakowski</a>&nbsp;</div>
+</li>
+<li>
+<div class="center"><a title="Irvin D. Yalom" href="https://en.wikipedia.org/wiki/Irvin_D._Yalom">Yalom</a>,&nbsp;<a title="Lev Vygotsky" href="https://en.wikipedia.org/wiki/Lev_Vygotsky">Vygotsky</a></div>
 </li>
 </ul>
 </div>
